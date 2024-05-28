@@ -8,11 +8,7 @@ class Jogo{
     }
    
    }
-   
-   
-   
 
-   
    let jogo1 = new Jogo('Valorant', 'FPS', 0, 4.5);
    let jogo2 = new Jogo('The sims', 'MMO', 50, 4);
    let jogo3 = new Jogo('Free fire', 'Battle Royale', 0, 5);
